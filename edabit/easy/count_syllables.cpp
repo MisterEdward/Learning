@@ -3,7 +3,7 @@
 using namespace std;
 
 int numberSyllables(string word) {
-    int syllables = 0;
+    int syllables = 1;
     for(int i = 0 ; i < word.size(); i++) {
         if(word[i] == '-')
             syllables++;
