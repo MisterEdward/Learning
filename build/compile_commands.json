@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/Users/edward/Git-Learning/Learning/build",
+  "command": "/usr/bin/clang++  -I/Users/edward/Git-Learning/Learning/. -I/Users/edward/Git-Learning/Learning/edabit -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/Learning.dir/edabit/easy/broken_bridge.cpp.o -c /Users/edward/Git-Learning/Learning/edabit/easy/broken_bridge.cpp",
+  "file": "/Users/edward/Git-Learning/Learning/edabit/easy/broken_bridge.cpp",
+  "output": "CMakeFiles/Learning.dir/edabit/easy/broken_bridge.cpp.o"
+},
+{
+  "directory": "/Users/edward/Git-Learning/Learning/build",
+  "command": "/usr/bin/clang++  -I/Users/edward/Git-Learning/Learning/. -I/Users/edward/Git-Learning/Learning/edabit -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/Learning.dir/edabit/easy/count_syllables.cpp.o -c /Users/edward/Git-Learning/Learning/edabit/easy/count_syllables.cpp",
+  "file": "/Users/edward/Git-Learning/Learning/edabit/easy/count_syllables.cpp",
+  "output": "CMakeFiles/Learning.dir/edabit/easy/count_syllables.cpp.o"
+},
+{
+  "directory": "/Users/edward/Git-Learning/Learning/build",
+  "command": "/usr/bin/clang++  -I/Users/edward/Git-Learning/Learning/. -I/Users/edward/Git-Learning/Learning/edabit -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/Learning.dir/edabit/easy/double_char.cpp.o -c /Users/edward/Git-Learning/Learning/edabit/easy/double_char.cpp",
+  "file": "/Users/edward/Git-Learning/Learning/edabit/easy/double_char.cpp",
+  "output": "CMakeFiles/Learning.dir/edabit/easy/double_char.cpp.o"
+},
+{
+  "directory": "/Users/edward/Git-Learning/Learning/build",
+  "command": "/usr/bin/clang++  -I/Users/edward/Git-Learning/Learning/. -I/Users/edward/Git-Learning/Learning/edabit -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/Learning.dir/edabit/easy/last_digit_ultimate.cpp.o -c /Users/edward/Git-Learning/Learning/edabit/easy/last_digit_ultimate.cpp",
+  "file": "/Users/edward/Git-Learning/Learning/edabit/easy/last_digit_ultimate.cpp",
+  "output": "CMakeFiles/Learning.dir/edabit/easy/last_digit_ultimate.cpp.o"
+},
+{
+  "directory": "/Users/edward/Git-Learning/Learning/build",
+  "command": "/usr/bin/clang++  -I/Users/edward/Git-Learning/Learning/. -I/Users/edward/Git-Learning/Learning/edabit -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/Learning.dir/edabit/easy/the-cooler-count_syllables.cpp.o -c /Users/edward/Git-Learning/Learning/edabit/easy/the-cooler-count_syllables.cpp",
+  "file": "/Users/edward/Git-Learning/Learning/edabit/easy/the-cooler-count_syllables.cpp",
+  "output": "CMakeFiles/Learning.dir/edabit/easy/the-cooler-count_syllables.cpp.o"
+},
+{
+  "directory": "/Users/edward/Git-Learning/Learning/build",
+  "command": "/usr/bin/clang++  -I/Users/edward/Git-Learning/Learning/. -I/Users/edward/Git-Learning/Learning/edabit -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/Learning.dir/edabit/medium/combinations_dar_nu_prea.cpp.o -c /Users/edward/Git-Learning/Learning/edabit/medium/combinations_dar_nu_prea.cpp",
+  "file": "/Users/edward/Git-Learning/Learning/edabit/medium/combinations_dar_nu_prea.cpp",
+  "output": "CMakeFiles/Learning.dir/edabit/medium/combinations_dar_nu_prea.cpp.o"
+},
+{
+  "directory": "/Users/edward/Git-Learning/Learning/build",
+  "command": "/usr/bin/clang++  -I/Users/edward/Git-Learning/Learning/. -I/Users/edward/Git-Learning/Learning/edabit -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/Learning.dir/edabit/medium/diagonal_of_cube.cpp.o -c /Users/edward/Git-Learning/Learning/edabit/medium/diagonal_of_cube.cpp",
+  "file": "/Users/edward/Git-Learning/Learning/edabit/medium/diagonal_of_cube.cpp",
+  "output": "CMakeFiles/Learning.dir/edabit/medium/diagonal_of_cube.cpp.o"
+},
+{
+  "directory": "/Users/edward/Git-Learning/Learning/build",
+  "command": "/usr/bin/clang++  -I/Users/edward/Git-Learning/Learning/. -I/Users/edward/Git-Learning/Learning/edabit -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/Learning.dir/edabit/medium/tweaking_letters.cpp.o -c /Users/edward/Git-Learning/Learning/edabit/medium/tweaking_letters.cpp",
+  "file": "/Users/edward/Git-Learning/Learning/edabit/medium/tweaking_letters.cpp",
+  "output": "CMakeFiles/Learning.dir/edabit/medium/tweaking_letters.cpp.o"
+},
+{
+  "directory": "/Users/edward/Git-Learning/Learning/build",
+  "command": "/usr/bin/clang++  -I/Users/edward/Git-Learning/Learning/. -I/Users/edward/Git-Learning/Learning/edabit -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/Learning.dir/code.cpp.o -c /Users/edward/Git-Learning/Learning/code.cpp",
+  "file": "/Users/edward/Git-Learning/Learning/code.cpp",
+  "output": "CMakeFiles/Learning.dir/code.cpp.o"
+}
+]
