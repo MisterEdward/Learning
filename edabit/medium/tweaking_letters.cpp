@@ -8,8 +8,14 @@ using namespace std;
 
 
 string tweakLetters(string s, vector<int> arr) {
-    for(size_t i = 0; i < arr.size(); ++i)
-        s[i] += arr[i];
+    for(size_t i = 0; i < arr.size(); ++i) {
+        if(s[i] == 'z' && arr[i] == 1)
+            s[i] = 'a';
+        else if(s[i] == 'a' && arr[i] == -1)
+            s[i] = 'z';
+        else
+            s[i] += arr[i];
+    }
     return s;
 }
 
