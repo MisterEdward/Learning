@@ -1,11 +1,8 @@
 // Create a function that tweaks letters by one forward (+1) or backwards (-1) according to an array.
 #include <iostream>
 #include <vector>
-#include <cstdlib>
-#include <ctime>
 
 using namespace std;
-
 
 string tweakLetters(string s, vector<int> arr) {
     for(size_t i = 0; i < arr.size(); ++i) {
