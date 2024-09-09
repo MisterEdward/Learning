@@ -1,1 +1,0 @@
-return result < 0 ? 0 : result;
