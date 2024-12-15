@@ -6,7 +6,7 @@ bool isPalindrome(int x) {
         return false;
         
     long int rev = 0, x_copy = x;
-    for(int i = 0; x_copy != 0; ++i) {
+    while(x_copy != 0) {
         rev = rev * 10 + x_copy % 10;
         x_copy = x_copy / 10;
     }
